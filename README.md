@@ -1,4 +1,4 @@
-# !!!! IF YOU HAVE ERRORS OPEN THE "installrequirements.bat" FILE!!!!
+# !!!! IF YOU HAVE ERRORS, OPEN THE "installrequirements.bat" FILE!!!!
 
 
 PhasmoHelper:
